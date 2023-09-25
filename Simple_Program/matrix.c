@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a[2],[2]i,j;
+int a[2][2],i,j;
 
 for(i=0;i<=1;i++)
 {
